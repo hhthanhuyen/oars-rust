@@ -1,4 +1,4 @@
-# OARS Rust/Ristretto Prototype
+# OARS
 
 This project implements the DDH-based OARS prototype over the Ristretto255 group. Range proofs use dalek Bulletproofs.
 
